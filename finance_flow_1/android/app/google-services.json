@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "25445840435",
+    "firebase_url": "https://flowfinance-cf09d-default-rtdb.firebaseio.com",
+    "project_id": "flowfinance-cf09d",
+    "storage_bucket": "flowfinance-cf09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25445840435:android:d038827e6b48fa4af5d546",
+        "android_client_info": {
+          "package_name": "com.example.finance_flow_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0h-IfjUzmFMnRhaUh1scs1sARe2ass4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

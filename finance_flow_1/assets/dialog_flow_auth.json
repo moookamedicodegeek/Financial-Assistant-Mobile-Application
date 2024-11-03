@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "financeflow-fppm",
+  "private_key_id": "013acd5722264fded7d8254bb7b826cc2254c377",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqTA5kXgllNbpG\ncjmNVKr0r92EzOdOQDTFvxdx8gI9zuH/BUTPJhpyNO5SMiM5jKxWLsIK1hOpvCfk\nKFBL4vZmp6LN9g5fuKxZG3AIFW/XKZYtKSRVBPfUxaCncoBX0lBhKrLduR/pEKjx\nBNOifeSWOzAmhTqNoEwyqTsFBsafmAww4xVtP427gCeSAcO3EZbhICYr0QoTRLOR\nKVuqMemL9MFhhdRxG9fZVX+9Y3pGJf7ZIRr7GvKSBb183ve8y5/3b8ij8PGAukFl\n5dEq/CvjexLvBgY6vVBBpeZL3Z8lFLxedh6iFdjn6JAB9VhiKFPrIEeRwyD8Oybx\nT9GoI2fFAgMBAAECggEACuQSzo3qBWg+ebdf4V8/EKd3oADXsRwvk87xAadDx+6l\nauEMIcBS1Cd471ZIBOvvcJKMc9N1jfcbyP5gBj5lWjLR2WCpUitWEFvOGiI+1RCS\ni2BUc8B91gRujg7nUNaBL/miV0Y52Xaoi0NvAncRKZ9u6KPAFyMfhGTowp1Ikhe1\nCJF1Syg0OAjFTEfCRcJ7/E3ZJlzAZVBKP/ORjr/imftfrQD+fUWXYqmGS7M+W/rK\nzIT4Cwq9qJq4IEoacDbGAGwR99pM4XLkNUz405D0vKvYK5yXqKmyCB8RaUQFe7iO\nSTMWtSFfMgTNtRTH4VRsuvEjmkiyHn4sQZ1O+uddkQKBgQDvgGPOHw91S8qsOPX3\nU6frKgdAwfWIhWUz346MvjyVjV9gX9kOtw4/5O4a3LBjFubfXSnKjqvEKhJRvWrQ\nlfQ9qk050REuBgpDp9WRWzAPXqMK5OTR8HoomYmgaiX6g0DTd9RS2L4PlYM77zI8\nK2tqO8bR0zfx1Uszf1E87EM1dQKBgQC2Bz78QxY4dUSOS2/nmSHD2sck1POKWH5N\nTbhW+PD0abf8djBuD66LR8xgY9Hi5utGMI/q9FGytsgWCY9Rx/ys2jGqoosvQRpx\ngdP0tkOYXYi+lCdThEgXKT3w7hr5Ucu5hJ9EVDuvZnXl0Prop+Zd8WJvmGGYSgZl\n1HNrqP8PEQKBgQDhBri/id90Ten3Nu2jnC5BfhOifJq90tfrjTjadENoIJRkcKn4\ncXYqAmbVRlVURMhXRalmb/ZjMURVGKurn7kD12cH069YlsQ+HQtEr3DQgBKgwb9c\noZ2lV90/o3xbi8b06bnMvWiWK9xKC8wfTIx4HAIKU3JU/hrSH+WsYDAloQKBgB9V\nNflUTvHe9bMMtzGFgXNmKFtlsJpCy1LhKvcFmOxpejsh2QpI9sGQ1VROOmW1XBBT\n8aH+9kUuA1kPwjTQmOTkFiKKIi07JqMdNu/ro80JZK1xcSeGIKaj+b6MLeZ2tvuz\nIXswiKmTmH27sET2Cchn8YrGDx6Yt2s127xPdcARAoGBAMbPjkJhQZ22PFZG+fcK\nLUZG/W576ZTkaPlH9PzXxLlv1fyDwUm5yvEvkSCmnMmtM+Mluq1/HqSQkSlGAMSB\nXUzrQEgYCm0s7d3+AzQ3L33P0FhdIzR7WewOkOYxSuwaLB5/S35xjeMjRiMSnifk\nR954exFGgBCx3rbYIIzoUXyi\n-----END PRIVATE KEY-----\n",
+  "client_email": "flowingfinancechatbot@financeflow-fppm.iam.gserviceaccount.com",
+  "client_id": "109748557197861523742",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flowingfinancechatbot%40financeflow-fppm.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
